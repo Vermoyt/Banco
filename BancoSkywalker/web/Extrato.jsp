@@ -19,7 +19,7 @@
    Nome: Jorge Augusto Rodrigues Andrade<br>
    CPF: 037.550.122-00<br>
    Conta: 52.000-1
-<!--
+
 <br>
 <table bgcolor="6E6E6E" bordercolor="#000000" align="center" width="500" height="20%" cellspacing="1" border="1">
   <tr bgcolor="#424242">
@@ -33,10 +33,11 @@
   <tr>
    <td>10/05/2018</td>
    <td>RECEBIMENTO DE CLIENTES</td>
-   <td>1.250,00</td>-->
+   <td>1.250,00</td>
     
        <!--<input type=submit value="Salvar">--></tb>
         </from>
+        <a><button>Imprimir</button></a>
 
 </body>
 </html>
